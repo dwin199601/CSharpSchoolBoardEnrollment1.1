@@ -1,0 +1,104 @@
+SchoolName	MaxEnroll	PrevYrEnroll	NumStudsLeaving	NumStudsJoining	FundsPerStud	CurrYrEnroll	TotalFindong
+Admiral Seymour	945		449		0		0		35.05		449		15737.45
+Bayview Communi	931		538		0		0		17.58		538		9458.04
+Britannia Commu	752		825		0		0		23.5		825		19387.5
+Captain James C	989		367		0		0		17.97		367		6594.99
+Carnarvon Commu	982		1025		0		0		39.69		1025		40682.25
+Champlain Heigh	865		221		0		0		30.28		221		6691.88
+Charles Dickens	797		601		0		0		23.73		601		14261.73
+Chief Maquinna 	887		354		0		0		37.98		354		13444.92
+Collingwood Nei	725		513		0		0		35.65		513		18288.45
+Crosstown Eleme	744		775		0		0		19.96		775		15469
+David Livingsto	808		522		0		0		26.61		522		13890.42
+David Lloyd Geo	905		584		0		0		26.51		584		15481.84
+David Oppenheim	740		398		0		0		17.34		398		6901.32
+David Thompson 	851		505		0		0		37.09		505		18730.45
+Dr A R Lord Ele	880		393		0		0		30.9		393		12143.7
+Dr Annie B Jami	853		353		0		0		38.37		353		13544.61
+Dr George M Wei	976		724		0		0		16.62		724		12032.88
+Dr H N MacCorki	808		416		0		0		35.86		416		14917.76
+Dr R E McKechni	836		122		0		0		39.01		122		4759.22
+Ecole Jules Que	735		606		0		0		22.6		606		13695.6
+Ecole Laura Sec	974		111		0		0		27.06		111		3003.66
+Edith Cavell El	732		794		0		0		29.25		794		23224.5
+Elsie Roy Eleme	766		336		0		0		37.3		336		12532.8
+Emily Carr Elem	734		660		0		0		39.87		660		26314.2
+Eric Hamber Sec	870		847		0		0		25.11		847		21268.17
+False Creek Ele	770		163		0		0		20.87		163		3401.81
+Florence Nighti	1000		749		0		0		32.02		749		23982.98
+G T Cunningham 	771		712		0		0		19.67		712		14005.04
+Gathering Place	915		321		0		0		28.59		321		9177.39
+General Brock E	914		558		0		0		37.05		558		20673.9
+General Gordon 	970		667		0		0		24.68		667		16461.56
+General Wolfe E	991		880		0		0		14.57		880		12821.6
+Gladstone Secon	834		449		0		0		32.03		449		14381.47
+Graham Bruce El	801		205		0		0		11.54		205		2365.7
+Grandview Eleme	897		610		0		0		25.94		610		15823.4
+Hastings Commun	945		227		0		0		28.82		227		6542.14
+Henry Hudson El	834		443		0		0		10.66		443		4722.38
+J W Sexsmith El	941		121		0		0		36.43		121		4408.03
+John Henderson 	709		651		0		0		35.35		651		23012.85
+John Norquay El	852		805		0		0		14.35		805		11551.75
+John Oliver Sec	745		189		0		0		37.03		189		6998.67
+Kerrisdale Anne	700		296		0		0		26.67		296		7894.32
+Kerrisdale Elem	740		424		0		0		30.41		424		12893.84
+Killarney Secon	780		566		0		0		24.85		566		14065.1
+King George Sec	754		204		0		0		39.94		204		8147.76
+Kitsilano Secon	812		606		0		0		25.54		606		15477.24
+L'Ecole Bilingu	943		859		0		0		17.48		859		15015.32
+Lord Beaconsfie	970		608		0		0		27.12		608		16488.96
+Lord Byng Secon	916		625		0		0		39.17		625		24481.25
+Lord Kitchener 	775		173		0		0		23.47		173		4060.31
+Lord Nelson Ele	879		759		0		0		36.37		759		27604.83
+Lord Roberts An	768		249		0		0		29.56		249		7360.44
+Lord Roberts El	852		902		0		0		16.58		902		14955.16
+Lord Selkirk An	993		480		0		0		23.63		480		11342.4
+Lord Selkirk El	746		678		0		0		30.53		678		20699.34
+Lord Strathcona	890		140		0		0		21.17		140		2963.8
+Lord Tennyson E	791		408		0		0		12.7		408		5181.6
+Magee Secondary	737		718		0		0		20.24		718		14532.32
+Maple Grove Ele	867		579		0		0		34.4		579		19917.6
+Mount Pleasant 	882		829		0		0		25.04		829		20758.16
+Nootka Communit	753		507		0		0		21.74		507		11022.18
+Norma Rose Poin	886		464		0		0		12.25		464		5684
+Pierre Elliott 	884		343		0		0		35.15		343		12056.45
+Point Grey Seco	905		147		0		0		14.96		147		2199.12
+Prince of Wales	848		861		0		0		34.86		861		30014.46
+Queen Alexandra	707		677		0		0		13.97		677		9457.69
+Queen Elizabeth	914		178		0		0		39.32		178		6998.96
+Queen Mary Elem	791		744		0		0		35.66		744		26531.04
+Queen Victoria 	962		792		0		0		19.13		792		15150.96
+Quilchena Eleme	871		137		0		0		25.98		137		3559.26
+Renfrew Communi	947		916		0		0		13.69		916		12540.04
+Shaughnessy Ele	787		758		0		0		33.69		758		25537.02
+Simon Fraser El	1000		656		0		0		19.32		656		12673.92
+Sir Alexander M	870		853		0		0		34.66		853		29564.98
+Sir Charles Kin	820		783		0		0		18.13		783		14195.79
+Sir Charles Tup	784		627		0		0		29.77		627		18665.79
+Sir Guy Carleto	854		853		0		0		14.08		853		12010.24
+Sir James Dougl	817		472		0		0		11.98		472		5654.56
+Sir John Frankl	751		251		0		0		32.18		251		8077.18
+Sir Matthew Beg	805		355		0		0		28.35		355		10064.25
+Sir Richard McB	838		868		0		0		30.71		868		26656.28
+Sir Sandford Fl	874		608		0		0		24.31		608		14780.48
+Sir Wilfred Gre	817		509		0		0		18.77		509		9553.93
+Sir Wilfrid Lau	828		496		0		0		10.31		496		5113.76
+Sir William Osl	745		738		0		0		27.65		738		20405.7
+Sir William Van	965		421		0		0		18.93		421		7969.53
+Sir Winston Chu	911		200		0		0		38.06		200		7612
+South Hill Educ	711		208		0		0		26.22		208		5453.76
+Southlands Elem	890		681		0		0		20.41		681		13899.21
+Tecumseh Annex	930		917		0		0		25.3		917		23200.1
+Tecumseh Elemen	726		295		0		0		34.76		295		10254.2
+Templeton Secon	773		143		0		0		34.97		143		5000.71
+Thunderbird Ele	986		723		0		0		24.06		723		17395.38
+Tillicum Commun	933		192		0		0		18.21		192		3496.32
+Trafalgar Eleme	753		789		0		0		27.16		789		21429.24
+Tyee Elementary	845		737		0		0		38.07		737		28057.59
+University Hill	967		728		0		0		26.19		728		19066.32
+Vancouver Learn	956		1036		0		0		24.8		1036		25692.8
+Vancouver Techn	706		791		0		0		20.53		791		16239.23
+Walter Moberly 	915		114		0		0		32.12		114		3661.68
+Waverley Elemen	848		731		0		0		13.52		731		9883.12
+Windermere Comm	837		449		0		0		27.54		449		12365.46
+Xpey' Elementar	854		420		0		0		36.05		420		15141

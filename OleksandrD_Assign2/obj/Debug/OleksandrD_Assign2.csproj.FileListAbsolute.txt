@@ -1,0 +1,11 @@
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\bin\Debug\OleksandrD_Assign2.exe.config
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\bin\Debug\OleksandrD_Assign2.exe
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\bin\Debug\OleksandrD_Assign2.pdb
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.csprojAssemblyReference.cache
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.Form1.resources
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.Properties.Resources.resources
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.csproj.GenerateResource.cache
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.csproj.CoreCompileInputs.cache
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.exe
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.pdb
+C:\MY DOC\c#learning\Assignment_two\OleksandrD_Assign2\OleksandrD_Assign2\obj\Debug\OleksandrD_Assign2.Form2.resources
